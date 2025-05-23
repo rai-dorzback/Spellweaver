@@ -1,6 +1,6 @@
 <h1 align="center">Spellweaver</h1>
 
-https://github.com/raisa-d/Spellweaver/assets/144272001/c993b52b-32ad-49de-9539-bb15912262a0
+https://github.com/rai-dorzback/Spellweaver/assets/144272001/c993b52b-32ad-49de-9539-bb15912262a0
 
 <p>This repository holds the cold for Spellweaver, a web application designed to help Dungeons &amp; Dragons (D&D) players manage their spellbooks efficiently. Whether you're a player looking to organize your spells or a Dungeon Master (DM) preparing for an epic adventure, Spellweaver provides the tools you need to master the arcane arts. This web app is integrated with the RESTful API <a href="https://www.dnd5eapi.co/">dnd5e</a></p>
 
@@ -106,8 +106,8 @@ We have designed an [initial concept](#design) in Figma & began to build the fro
 The initial designs for the web app were created using Figma:
 </p>
 <p align="center">
-  <img height="300" alt="Spellweaver Searchbar Design" src="https://github.com/raisa-d/Spellweaver/assets/144272001/26740ede-b299-4e2b-bab2-7205035c9687">
-  <img height="300" alt="Spellweaver Spellbook Design" src="https://github.com/raisa-d/Spellweaver/assets/144272001/0926619a-311d-4e33-a9c6-87edfaa48f8d">
+  <img height="300" alt="Spellweaver Searchbar Design" src="https://github.com/rai-dorzback/Spellweaver/assets/144272001/26740ede-b299-4e2b-bab2-7205035c9687">
+  <img height="300" alt="Spellweaver Spellbook Design" src="https://github.com/rai-dorzback/Spellweaver/assets/144272001/0926619a-311d-4e33-a9c6-87edfaa48f8d">
 </p>
 <p>Color Palette: <a href="https://www.colorhub.app/browse/duck-egg">Duck Egg</a></p>
 
@@ -116,10 +116,10 @@ We welcome contributions from the D&D community to make Spellweaver even better!
 
 ## Contact
 <p> 
-  <a href="https://raisadorzback.netlify.app/" target="blank">
+  <a href="https://rai-dorzback.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
   </a>
-  <a href="https://www.linkedin.com/in/raisa-d/">
+  <a href="https://www.linkedin.com/in/rai-d/">
     <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
   </a>
   <a href="https://twitter.com/rai__bread" target="blank">
